@@ -11,3 +11,4 @@ If you need an Azure account, you can [create one for free](https://azure.micros
 
 readtrajiv
 new day 08
+july 12 th
